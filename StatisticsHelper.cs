@@ -1,1 +1,1 @@
-// Klasa do obliczeń statystycznych
+// Dodano funkcję obliczania średniej
