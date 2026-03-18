@@ -1,1 +1,1 @@
-//rtfhrtrthrh
+// Klasa do obliczeń statystycznych
